@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">BAKWA</string>
+    <string name="button_text">CLIQUE</string>
+    <string name="text_view">Bonjour</string>
+
+</resources>
